@@ -9,7 +9,7 @@
 
 <div align="center">
     
- 🔭 I’m currently working with my team on a client project, **Crowdfunding System**
+ 🔭 I’m currently working with my team on a capstone project, **KulPi: A Mobile Role-Playing Game**
  </div>
  
  <br/>
