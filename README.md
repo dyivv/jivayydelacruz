@@ -29,7 +29,6 @@
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jivayydelacruz&show_icons=true&theme=onedark&card_width=495&rank_icon=percentile&hide_border=true&border_radius=0)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jivayydelacruz&show_icons=true&count_private=true&theme=onedark&layout=compact&hide_border=true&card_width=495&border_radius=0)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jivayydelacruz&show_icons=true&count_private=true&theme=onedark&layout=compact&hide_border=true&card_width=495&border_radius=0)
 ![](https://github-profile-trophy.vercel.app/?username=jivayydelacruz&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 # Certificate
